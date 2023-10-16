@@ -1,0 +1,653 @@
+.container {
+    position: relative;
+} .item{ position: absolute;
+}
+#item_0 {
+     left: 0px;
+    top: 278px;
+    width: 960px;
+    height: 1441px;
+}
+#item_1 {
+     left: 1920px;
+    top: 281px;
+    width: 960px;
+    height: 1441px;
+}
+#item_2 {
+     left: 0px;
+    top: 3160px;
+    width: 960px;
+    height: 1441px;
+}
+#item_3 {
+     left: -12px;
+    top: 4601px;
+    width: 960px;
+    height: 1441px;
+}
+#item_4 {
+     left: 1918px;
+    top: 3160px;
+    width: 960px;
+    height: 1441px;
+}
+#item_5 {
+     left: 1878px;
+    top: 899px;
+    width: 972px;
+    height: 957px;
+    background-color: transparent;
+}
+#item_6 {
+     left: 0px;
+    top: 2695px;
+    width: 972px;
+    height: 957px;
+    background-color: transparent;
+}
+#item_7 {
+     left: 1400px;
+    top: 2160px;
+    width: 1400px;
+    height: 1225px;
+}
+#item_8 {
+     left: 0px;
+    top: -76px;
+    width: 1920px;
+    height: 583px;
+}
+#item_9 {
+     left: 115px;
+    top: -76px;
+    width: 1634px;
+    height: 600px;
+}
+#item_10 {
+     left: 188px;
+    top: -76px;
+    width: 1392px;
+    height: 624px;
+}
+#item_11 {
+     left: 1049px;
+    top: -76px;
+    width: 460px;
+    height: 662px;
+}
+#item_12 {
+     left: 1049px;
+    top: -76px;
+    width: 531px;
+    height: 636px;
+}
+#item_13 {
+     left: 867px;
+    top: 507.39px;
+    width: 1470px;
+    height: 393px;
+}
+#item_14 {
+     left: 895.69px;
+    top: 462.9px;
+    width: 1470px;
+    height: 411.79px;
+}
+#item_15 {
+     left: 188px;
+    top: 1235px;
+    font-size: 48px;
+    width: 456px;
+    font-family: "Old Standard TT";
+    font-weight: Bold;
+    color: rgba(206, 45, 45, 1);
+}
+#item_16 {
+     left: 188px;
+    top: 1334px;
+    font-size: 26px;
+    width: 785px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(61, 61, 61, 1);
+}
+#item_17 {
+     left: -5px;
+    top: 930px;
+    width: 1925px;
+    height: 3392px;
+}
+#item_18 {
+     left: 1181px;
+    top: 1362.16px;
+    width: 1009.78px;
+    height: 393px;
+}
+#item_19 {
+     left: 1355.18px;
+    top: 1453.95px;
+    width: 1009.78px;
+    height: 393px;
+}
+#item_20 {
+     left: -262.37px;
+    top: 3674.35px;
+    width: 761.63px;
+    height: 393px;
+}
+#item_21 {
+     left: 283.18px;
+    top: 3214.64px;
+    width: 825.23px;
+    height: 393px;
+}
+#item_22 {
+     left: 940.04px;
+    top: 2776.25px;
+    width: 449.35px;
+    height: 393px;
+}
+#item_23 {
+     left: 1404px;
+    top: 2160px;
+    width: 423px;
+    height: 739px;
+}
+#item_24 {
+     left: 371px;
+    top: 3258px;
+    width: 1549px;
+    height: 872px;
+}
+#item_25 {
+     left: 1370px;
+    top: 3199.04px;
+    width: 475.22px;
+    height: 607.12px;
+}
+#item_26 {
+     left: 1138px;
+    top: 3633px;
+    width: 1138px;
+    height: 641px;
+}
+#item_27 {
+     left: 671px;
+    top: 3381px;
+    width: 584px;
+    height: 625px;
+}
+#item_28 {
+     left: 672.5px;
+    top: 3523px;
+    font-size: 48px;
+    width: 581px;
+    font-family: "Old Standard TT";
+    font-weight: Bold;
+    color: rgba(206, 45, 45, 1);
+}
+#item_29 {
+     left: 671px;
+    top: 3616px;
+    font-size: 26px;
+    width: 584px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(255, 255, 255, 1);
+}
+#item_30 {
+     left: 927px;
+    top: 3825px;
+    font-size: 20px;
+    width: 72px;
+    font-family: "Ledger";
+    color: rgba(255, 255, 255, 1);
+}
+#item_31 {
+     left: 1298px;
+    top: 1685px;
+    width: 1104px;
+    height: 622px;
+}
+#item_32 {
+     left: 2227px;
+    top: 2332px;
+    width: 972px;
+    height: 957px;
+    background-color: transparent;
+}
+#item_33 {
+     left: 1531px;
+    top: 1022.74px;
+    width: 470.62px;
+    height: 647.39px;
+}
+#item_34 {
+     left: 1065px;
+    top: 1991.42px;
+    width: 473.81px;
+    height: 670.11px;
+}
+#item_35 {
+     left: 1086px;
+    top: 1501.55px;
+    width: 596.21px;
+    height: 770.5px;
+}
+#item_36 {
+     left: 1405px;
+    top: 2316px;
+    font-size: 48px;
+    width: 453px;
+    font-family: "Old Standard TT";
+    font-weight: Bold;
+    color: rgba(206, 45, 45, 1);
+}
+#item_37 {
+     left: 1252px;
+    top: 2466px;
+    font-size: 26px;
+    width: 606px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(255, 255, 255, 1);
+}
+#item_38 {
+     left: -5px;
+    top: 4072px;
+    width: 1932px;
+    height: 248px;
+    background-color: rgba(210, 210, 210, 1);
+}
+#item_39 {
+     left: -5px;
+    top: 4006px;
+    width: 683px;
+    height: 147px;
+}
+#item_40 {
+     left: 1354px;
+    top: 4006px;
+    width: 683px;
+    height: 152px;
+}
+#item_41 {
+     left: 1349px;
+    top: 4006px;
+    width: 683px;
+    height: 158px;
+}
+#item_42 {
+     left: 195px;
+    top: 4101px;
+    width: 169px;
+    height: 177px;
+}
+#item_43 {
+     left: 492px;
+    top: 4125px;
+    font-size: 24px;
+    width: 176px;
+    font-family: "Signika";
+    font-weight: SemiBold;
+    color: rgba(46, 46, 46, 1);
+}
+#item_44 {
+     left: 492px;
+    top: 4160px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_45 {
+     left: 492px;
+    top: 4195px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_46 {
+     left: 492px;
+    top: 4230px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_47 {
+     left: 796px;
+    top: 4125px;
+    font-size: 24px;
+    width: 176px;
+    font-family: "Signika";
+    font-weight: SemiBold;
+    color: rgba(46, 46, 46, 1);
+}
+#item_48 {
+     left: 796px;
+    top: 4160px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_49 {
+     left: 796px;
+    top: 4195px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_50 {
+     left: 796px;
+    top: 4230px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_51 {
+     left: 1100px;
+    top: 4125px;
+    font-size: 24px;
+    width: 176px;
+    font-family: "Signika";
+    font-weight: SemiBold;
+    color: rgba(46, 46, 46, 1);
+}
+#item_52 {
+     left: 1100px;
+    top: 4160px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_53 {
+     left: 1100px;
+    top: 4195px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_54 {
+     left: 1100px;
+    top: 4230px;
+    font-size: 24px;
+    width: 304px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(46, 46, 46, 1);
+}
+#item_55 {
+     left: 1404px;
+    top: 4151px;
+    font-size: 24px;
+    width: 208px;
+    font-family: "Signika";
+    color: rgba(46, 46, 46, 1);
+}
+#item_56 {
+     left: 1404px;
+    top: 4188px;
+    width: 40px;
+    height: 40px;
+}
+#item_57 {
+     left: 1460px;
+    top: 4188px;
+    width: 40px;
+    height: 40px;
+}
+#item_58 {
+     left: 1516px;
+    top: 4188px;
+    width: 40px;
+    height: 40px;
+}
+#item_59 {
+     left: 1572px;
+    top: 4188px;
+    width: 40px;
+    height: 40px;
+}
+#item_60 {
+     left: 730.7px;
+    top: 370.28px;
+    width: 484.3px;
+    height: 482.62px;
+}
+#item_61 {
+     left: 897.54px;
+    top: 434.83px;
+    width: 150.63px;
+    height: 119.89px;
+}
+#item_62 {
+     left: 730px;
+    top: 370.28px;
+    width: 242.15px;
+    height: 482.62px;
+}
+#item_63 {
+     left: 1215px;
+    top: 370.28px;
+    width: 242.15px;
+    height: 482.62px;
+}
+#item_64 {
+     left: 911.79px;
+    top: 338px;
+    width: 120.91px;
+    height: 78.39px;
+}
+#item_65 {
+     left: 931.35px;
+    top: 384.11px;
+    width: 83px;
+    height: 116.81px;
+}
+#item_66 {
+     left: 943.65px;
+    top: 430.22px;
+    width: 10.97px;
+    height: 33.81px;
+}
+#item_67 {
+     left: 1002.27px;
+    top: 430.22px;
+    width: 10.97px;
+    height: 33.81px;
+}
+#item_68 {
+     left: 897.54px;
+    top: 550.11px;
+    width: 144.48px;
+    height: 158.31px;
+}
+#item_69 {
+     left: 1023.57px;
+    top: 705.35px;
+    width: 108.36px;
+    height: 42.65px;
+}
+#item_70 {
+     left: 1022.17px;
+    top: 604.31px;
+    width: 72.21px;
+    height: 21px;
+}
+#item_71 {
+     left: 990.04px;
+    top: 720.8px;
+    width: 69px;
+    height: 22.99px;
+}
+#item_72 {
+     left: 1035.42px;
+    top: 668.57px;
+    width: 57px;
+    height: 45.94px;
+}
+#item_73 {
+     left: 903.12px;
+    top: 667.81px;
+    width: 57px;
+    height: 45.94px;
+}
+#item_74 {
+     left: 947.98px;
+    top: 719.94px;
+    width: 69px;
+    height: 22.99px;
+}
+#item_75 {
+     left: 915.08px;
+    top: 604.97px;
+    width: 72.21px;
+    height: 21px;
+}
+#item_76 {
+     left: 945px;
+    top: 612px;
+    font-size: 32px;
+    width: 59px;
+    font-family: "Ledger";
+    color: rgba(206, 45, 45, 1);
+}
+#item_77 {
+     left: 894px;
+    top: 584.25px;
+    width: 13.08px;
+    height: 23.41px;
+}
+#item_78 {
+     left: 916.68px;
+    top: 564.47px;
+    width: 13.08px;
+    height: 23.41px;
+}
+#item_79 {
+     left: 904.67px;
+    top: 573.01px;
+    width: 13.08px;
+    height: 23.41px;
+}
+#item_80 {
+     left: 1040.54px;
+    top: 680.57px;
+    width: 12.47px;
+    height: 22.31px;
+}
+#item_81 {
+     left: 1018.93px;
+    top: 699.42px;
+    width: 12.47px;
+    height: 22.31px;
+}
+#item_82 {
+     left: 1030.37px;
+    top: 691.27px;
+    width: 12.47px;
+    height: 22.31px;
+}
+#item_83 {
+     left: 713px;
+    top: 607px;
+    width: 512px;
+    height: 248px;
+    background-color: transparent;
+}
+#item_84 {
+     left: 644px;
+    top: 595px;
+    font-size: 64px;
+    width: 632px;
+    font-family: "Palanquin Dark";
+    font-weight: Bold;
+    color: transparent;
+}
+#item_85 {
+     left: 644px;
+    top: 727px;
+    font-size: 48px;
+    width: 632px;
+    font-family: "Old Standard TT";
+    font-weight: Bold;
+    color: transparent;
+}
+#item_86 {
+     left: 670.5px;
+    top: 816px;
+    font-size: 26px;
+    width: 579px;
+    font-family: "Signika";
+    font-weight: Light;
+    color: rgba(61, 61, 61, 1);
+}
+#item_87 {
+     left: 905.5px;
+    top: 974px;
+    font-size: 20px;
+    width: 109px;
+    font-family: "Ledger";
+    color: rgba(255, 255, 255, 1);
+}
+#item_88 {
+     left: 0px;
+    top: 0px;
+    width: 1920px;
+    height: 113px;
+    background-color: rgba(46, 46, 46, 1);
+}
+#item_89 {
+     left: 60px;
+    top: 46px;
+    font-size: 16px;
+    width: 128px;
+    font-family: "Signika";
+    color: rgba(193, 193, 193, 1);
+}
+#item_90 {
+     left: 212px;
+    top: 46px;
+    font-size: 16px;
+    width: 128px;
+    font-family: "Signika";
+    color: rgba(193, 193, 193, 1);
+}
+#item_91 {
+     left: 928px;
+    top: 17px;
+    width: 75px;
+    height: 78px;
+}
+#item_92 {
+     left: 1591px;
+    top: 46px;
+    font-size: 16px;
+    width: 128px;
+    font-family: "Signika";
+    color: rgba(193, 193, 193, 1);
+}
+#item_93 {
+     left: 1743px;
+    top: 46px;
+    font-size: 16px;
+    width: 128px;
+    font-family: "Signika";
+    color: rgba(193, 193, 193, 1);
+}
